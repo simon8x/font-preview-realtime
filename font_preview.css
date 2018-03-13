@@ -1,0 +1,130 @@
+
+/* pagination */
+.paginacion {
+  margin:20px 0;
+}
+
+.paginacion ul {
+  list-style:none;
+  text-align: center;
+}
+
+.paginacion ul li {
+  display:inline-block;
+  margin-right:10px;
+}
+
+.paginacion ul li a {
+  display:block;
+  padding:10px 20px;
+  color:#fff;
+  background:#024959;
+  text-decoration: none;
+}
+
+.paginacion ul li a:hover {
+  background:#037E8C;
+}
+
+.paginacion ul li .active {
+  background:#037E8C;
+  font-weight:bold;
+}
+
+.preview-text {
+  font-size: 2em;
+}
+/* pagination */
+
+
+@font-face {
+    font-family: AlishaderDemo;
+    src: url(./fonts/AlishaderDemo.ttf);
+}
+
+.font1 {
+    font-family: AlishaderDemo;
+}
+
+@font-face {
+    font-family: AllStarResort;
+    src: url(./fonts/AllStarResort.ttf);
+}
+
+.font2 {
+    font-family: AllStarResort
+}
+
+
+@font-face {
+    font-family: Amarillo;
+    src: url(./fonts/Amarillo.ttf);
+}
+
+.font3 {
+    font-family: Amarillo
+}
+
+
+@font-face {
+    font-family: BebasNeue-Regular;
+    src: url(./fonts/BebasNeueRegular.ttf);
+}
+
+.font4 {
+    font-family: BebasNeue-Regular
+}
+
+@font-face {
+    font-family: Berlin;
+    src: url(./fonts/Berlin.ttf);
+}
+
+.font5 {
+    font-family: Berlin
+}
+
+@font-face {
+    font-family: Berlin Small Caps;
+    src: url(./fonts/BerlinSmallCaps.ttf);
+}
+
+.font6 {
+    font-family: Berlin Small Caps
+}
+
+@font-face {
+    font-family: Bernard;
+    src: url(./fonts/Bernard.ttf);
+}
+
+.font7 {
+    font-family: Bernard
+}
+
+@font-face {
+    font-family: Bernardo Moda;
+    src: url(./fonts/BernardoModa.ttf);
+}
+
+.font8 {
+    font-family: Bernardo Moda
+}
+
+@font-face {
+    font-family: Bernardo Moda Semibold;
+    src: url(./fonts/BernardoModaSemibold.ttf);
+}
+
+.font9 {
+    font-family: Bernardo Moda Semibold
+}
+
+@font-face {
+    font-family: BetterPhoenix;
+    src: url(./fonts/BetterPhoenix.ttf);
+}
+
+.font10 {
+    font-family: BetterPhoenix
+}
